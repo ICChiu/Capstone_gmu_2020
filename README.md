@@ -1,1 +1,1 @@
-# Capstone_gmu_2020
+# Real-time Detection of Anomalies in Quality Inspection in Manufacturing - Taking Steel as an Example
